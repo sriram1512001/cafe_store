@@ -1,0 +1,44 @@
+{
+    "arrayOfMenu":[
+        {
+            "id":1,
+            "imageUrl":"https://images.unsplash.com/photo-1610889556528-9a770e32642f?q=80&w=2815&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "menuName":"ESPRESSO"
+        },
+        {
+            "id":2,
+            "imageUrl":"https://www.theflavorbender.com/wp-content/uploads/2017/07/Nutella-Frappuccino-The-Flavor-Bender-8-700x1057.jpg",
+            "menuName":"NUTELLA FRAPE"
+        },
+        {
+            "id":3,
+            "imageUrl":"https://www.homegrounds.co/wp-content/uploads/2023/04/Honey_Bee_Cortado.jpg",
+            "menuName":"CORTADO"
+        },
+        {
+            "id":4,
+            "imageUrl":"https://plus.unsplash.com/premium_photo-1731696604229-b18483244274?q=80&w=2829&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "menuName":"TEA"
+        },
+        {
+            "id":5,
+            "imageUrl":"https://plus.unsplash.com/premium_photo-1673459683929-3f3574de7e75?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODF8fGxhdHRlfGVufDB8fDB8fHww",
+            "menuName":"LATTE"
+        },
+        {
+            "id":6,
+            "imageUrl":"https://plus.unsplash.com/premium_photo-1675435644687-562e8042b9db?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y29mZmV8ZW58MHx8MHx8fDA%3D",
+            "menuName":"COFFEE"
+        },
+        {
+            "id":7,
+            "imageUrl":"https://plus.unsplash.com/premium_photo-1663840278005-86c6b20356fc?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YWNhaSUyMGJvd2x8ZW58MHx8MHx8fDA%3D",
+            "menuName":"ACAI BOWL"
+        },
+        {
+            "id":8,
+            "imageUrl":"https://plus.unsplash.com/premium_photo-1700590072727-c98504929014?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fG1vY2hhfGVufDB8fDB8fHww",
+            "menuName":"MOCHA"
+        }
+    ]
+}
